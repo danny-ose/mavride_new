@@ -9,9 +9,9 @@ const About = () => {
         <div className="">
           <h1 className="text-[32px] font-bold">About Us</h1>
           <p className="text-base md:w-[65%]">
-            We don&apos;t just transport you to your appointments. we are a part of
+            We dont just transport you to your appointments. we are a part of
             your health journey. Our mission, vision, and values reflect our
-            dedication:
+            dedication
           </p>
 
           <Button
