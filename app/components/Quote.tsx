@@ -3,7 +3,7 @@ export default function Quote() {
     <div className="bg-[#F3F4FD] px-[15px] md:px-[30px] lg:py-[60px] py-10">
       <div className="md:max-w-[600px] mx-auto">
         <div className="text-[32px] font-bold text-center text-midnightblue-200">
-          Request a quote{" "}
+          Get quote{" "}
         </div>
 
         <div className="text-dimgray text-[16px] text-center my-5">

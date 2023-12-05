@@ -14,22 +14,58 @@ const Trained = () => {
         <div className="">
           <div className="">
             <div className="text-[14px] mt-2 text-dimgray font-extralight">
-            <span className="font-bold">Driver training:</span> Comprehensive course for driver training and
-              safety. ctaa.org/pass-online
+              <span className="font-bold">Driver training:</span> Comprehensive
+              course for driver training and safety.{" "}
+              <a
+                href="https://ctaa.org/pass-online/"
+                target="_blank"
+                className="hover:bg-ghostwhite"
+              >
+                ctaa.org/pass-online
+              </a>
             </div>
             <div className="text-[14px] mt-2 text-dimgray font-extralight">
-              <span className="font-bold">CPR/First aid:</span> Certification for emergency readiness,
-              redcross.org/take-a-class{" "}
+              <span className="font-bold">CPR/First aid:</span> Certification
+              for emergency readiness,{" "}
+              <a
+                href="https://www.redcross.org/take-a-class"
+                target="_blank"
+                className="hover:bg-ghostwhite"
+              >
+                redcross.org/take-a-class
+              </a>{" "}
             </div>
             <div className="text-[14px] mt-2 text-dimgray font-extralight">
-              <span className="font-bold">Defensive driving:</span> Skills development for accident prevention.
-              nsc.org{" "}
+              <span className="font-bold">Defensive driving:</span> Skills
+              development for accident prevention.{" "}
+              <a
+                href="https://www.nsc.org/"
+                target="_blank"
+                className="hover:bg-ghostwhite"
+              >
+                nsc.org
+              </a>{" "}
             </div>
             <div className="text-[14px] mt-2 text-dimgray font-extralight">
               Drug, alcohol, and background check: It is of extreme importance
               to us at Mavride to ensure the trustworthiness and professionalism
               of our staff before employment and randomly while still employed
-              with us. occusscreen.com, c-dat.net{" "}
+              with us.{" "}
+              <a
+                href="https://occusscreen.com"
+                target="_blank"
+                className="hover:bg-ghostwhite"
+              >
+                occusscreen.com
+              </a>
+              ,{" "}
+              <a
+                href="https://c-dat.net/"
+                target="_blank"
+                className="hover:bg-ghostwhite"
+              >
+                c-dat.net
+              </a>{" "}
             </div>
           </div>
           <div className="bg-mediumblue-100 text-white text-center p-4 px-16 my-5 text-[16px] w-fit rounded ">

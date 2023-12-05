@@ -9,9 +9,13 @@ const About = () => {
         <div className="">
           <h1 className="text-[32px] font-bold">About Us</h1>
           <p className="text-base md:w-[65%]">
-            We don&apos;t just transport you to your appointments. we are a part of
-            your health journey. Our mission, vision, and values reflect our
-            dedication
+           Mavride is a Tech-powered Non Emergency Medical Transportation company that ensures seamless mobility for individuals with non emergency medical needs: hospital visits, pharmacy pick ups, doctors appointments, counseling and therapy sessions, by providing our fleet of vehicles- Sedan/Ambulatory, Wheelchair, and Gurney throughout: Houston, Harris, Fortbend, Galveston, Brazoria, Montgomery counties and other nearby areas.
+           <br />
+           <br />
+           We don't just transport you to your appointments, we are a part of your health journey and our values, mission and vision reflect our dedication, fostering partnership and collaboration with stakeholders in the NEMT space through trainings, programs, and events, to improve non-emergency medical transportation services and increased access to the undeserved population.
+           <br />
+           <br />
+           Powered by cutting edge teachnology and a team of professionally qualified and emotionally intelligent staff, we guarantee a steadfast commitment to providing, safe, reliable, compassionate and accessible transportation, by streamlining NEMT operations, enhancing communication and effective tracking to ensure a comfortable, safe, and secure clients journey to and from their medical appointment.
           </p>
 
           <Button
