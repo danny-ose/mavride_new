@@ -18,7 +18,7 @@ const About = () => {
             Montgomery counties and other nearby areas.
             <br />
             <br />
-            We don't just transport you to your appointments, we are a part of
+            We don&apos;t just transport you to your appointments, we are a part of
             your health journey and our values, mission and vision reflect our
             dedication, fostering partnership and collaboration with
             stakeholders in the NEMT space through trainings, programs, and
