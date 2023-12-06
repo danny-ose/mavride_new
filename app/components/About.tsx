@@ -5,7 +5,7 @@ import Button from "./Button";
 const About = () => {
   return (
     <div>
-      <div className="bg-midnightblue-200 text-white box-border p-10 rounded-13xl md:w-full md:flex gap-10 md:items-center">
+      <div className="bg-midnightblue-200 text-white box-border p-10 rounded-13xl md:w-full flex flex-col lg:flex-row gap-10 md:items-center">
         <div className="flex-1">
           <h1 className="text-[32px] lg:text-[64px] font-bold">About Us</h1>
           <p className="text-base">
